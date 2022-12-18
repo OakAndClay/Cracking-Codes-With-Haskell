@@ -5,7 +5,7 @@ import Control.Monad (forM_)
 
 -- Defines the characters that are valid for this cypher
 symbols :: String
-symbols = ['A'..'Z']++['a'..'z']++['0'..'9']++" !@#$%^&*()_-+=/.,;:"
+symbols = ['A'..'Z']++['a'..'z']++['0'..'9']++" !@#$%^&*()_-+=/.,;:'"
 
 -- Defines the valid keys
 keys :: [Int]
