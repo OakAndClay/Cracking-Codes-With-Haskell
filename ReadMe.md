@@ -1,7 +1,7 @@
 # Cracking Codes with Haskell
 ***
 ### Overview
-This is a repo that attempts to produce functions that will produce the same outputs as code in the ** Cracking Codes with Python ** book by Al Sweigart.
+This is a repo that attempts to create functions that will produce the same outputs as code in **Cracking Codes with Python** by Al Sweigart.
 
 #### Ciphers
 - The Reverse Cipher
